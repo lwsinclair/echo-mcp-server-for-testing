@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/piebro-echo-mcp-server-for-testing-badge.png)](https://mseep.ai/app/piebro-echo-mcp-server-for-testing)
+
 # echo-mcp-server-for-testing
 
 A simple echo MCP (Model Context Protocol) Server with a simple `echo_tool` for testing MCP Clients.
